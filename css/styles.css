@@ -39,7 +39,7 @@ ul {
    max-width: 480px; 
  }
 
- .hero{
+ main .hero{
     background-image: linear-gradient(
         to right,
         rgba(46, 47, 66, 0.7),
@@ -415,7 +415,7 @@ margin-right: auto;
     max-width: 480px; 
   }
 
-  .hero{
+  main .hero{
     background-image: linear-gradient(
         to right,
         rgba(46, 47, 66, 0.7),
@@ -794,8 +794,8 @@ margin-right: auto;
 .header-nav .logo{
     margin-right: 120px;
 }
-
-.hero{
+ 
+main .hero{
     background-image: linear-gradient(
         to right,
         rgba(46, 47, 66, 0.7),
@@ -975,7 +975,7 @@ margin-bottom: 0;
     body .container{
         width: 1200px;    }
 
-        .hero{
+       main .hero{
             background-image: linear-gradient(
                 to right,
                 rgba(46, 47, 66, 0.7),
@@ -1179,7 +1179,7 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 @media screen and (min-device-pixel-ratio: 2) and (max-width: 480px),
 screen and (min-resolution: 192dpi) and (max-width: 480px),
 screen and (min-resolution: 2dppx) and (max-width: 480px){
-    .hero{
+    main .hero{
         background-image: linear-gradient(
             to right,
             rgba(46, 47, 66, 0.7),
@@ -1195,7 +1195,7 @@ screen and (min-resolution: 2dppx) and (max-width: 480px){
 @media screen and (min-device-pixel-ratio: 2)and (min-width: 480px) and (max-width: 768px),
 screen and (min-resolution: 192dpi)and (min-width: 480px) and (max-width: 768px),
 screen and (min-resolution: 2dppx)and (min-width: 480px) and (max-width: 768px){
-    .hero{
+    main .hero{
         background-image: linear-gradient(
             to right,
             rgba(46, 47, 66, 0.7),
@@ -1212,7 +1212,7 @@ screen and (min-resolution: 2dppx)and (min-width: 480px) and (max-width: 768px){
 @media screen and (min-device-pixel-ratio: 2)and (min-width: 768px) and (max-width: 1200px),
 screen and (min-resolution: 192dpi)and (min-width: 768px) and (max-width: 1200px),
 screen and (min-resolution: 2dppx)and (min-width: 768px) and (max-width: 1200px){
-    .hero{
+    main .hero{
         background-image: linear-gradient(
             to right,
             rgba(46, 47, 66, 0.7),
@@ -1229,7 +1229,7 @@ screen and (min-resolution: 2dppx)and (min-width: 768px) and (max-width: 1200px)
 @media screen and (min-device-pixel-ratio: 2)and (min-width: 1200px),
 screen and (min-resolution: 192dpi)and (min-width: 1200px),
 screen and (min-resolution: 2dppx)and (min-width: 1200px){
-    .hero{
+    main .hero{
         background-image: linear-gradient(
             to right,
             rgba(46, 47, 66, 0.7),
