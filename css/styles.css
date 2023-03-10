@@ -52,8 +52,11 @@ ul {
  .backdrop .modal{ 
    top: 90px;
    transform: translate(-50%, 0);
+   width: 100%;
 
 }
+
+
 
    
 .mob-menu{
@@ -73,6 +76,7 @@ cursor: pointer;
 
 
 .mobi-menu{
+    width: 100%;
 position: fixed;
 top: 0;
 left: 0;
@@ -366,7 +370,7 @@ text-align: center;
 }
 
 .footer-form .subscribe-label input{
-   min-width: 396px;
+   width: 100%;
 }
 
 .footer-form .btn-subscribe{
